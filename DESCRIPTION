@@ -1,11 +1,10 @@
 Package: math4753nguy0615
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Package for MATH4753
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Claire Nguyen
+Maintainer: Claire Nguyen <claire.g.nguyen-1@ou.edu>
+Description: Functions for MATH4753
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

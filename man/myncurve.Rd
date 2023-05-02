@@ -2,7 +2,7 @@
 % Please edit documentation in R/myncurve.R
 \name{myncurve}
 \alias{myncurve}
-\title{Title: myncurve}
+\title{myncurve}
 \usage{
 myncurve(a, mu, sigma)
 }
@@ -17,7 +17,7 @@ myncurve(a, mu, sigma)
 plotted curve with area shaded in
 }
 \description{
-Title: myncurve
+myncurve
 }
 \examples{
 myncurve(a=1, mu=2, sigma=3)

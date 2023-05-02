@@ -1,4 +1,5 @@
-#' Title Find the minimum amount of tickets needed
+#' @title ntickets
+#' Find the minimum amount of tickets needed
 #'
 #' @param N number of seats
 #' @param gamma probability the plane will truly be overbooked

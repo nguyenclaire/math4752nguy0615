@@ -1,4 +1,5 @@
-#' @title Function Formula Quadratic
+#' @title myfunc
+#' This function is for a quadratic
 #'
 #' @param x variable as an integer
 #'

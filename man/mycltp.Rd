@@ -2,7 +2,8 @@
 % Please edit documentation in R/mycltp.R
 \name{mycltp}
 \alias{mycltp}
-\title{Title mycltp}
+\title{mycltp
+This function returns a histogram of the same means}
 \usage{
 mycltp(n, iter, lambda = 10)
 }
@@ -19,7 +20,8 @@ a barplot of the relative frequency of sampeld values `y` from the Poisson distr
 a probability function plot for the Poisson distribution with the specified `lambda`
 }
 \description{
-Title mycltp
+mycltp
+This function returns a histogram of the same means
 }
 \examples{
 mycltp(n=2, iter=10000,lambda=4)

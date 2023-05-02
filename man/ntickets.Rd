@@ -2,7 +2,8 @@
 % Please edit documentation in R/myntickets.R
 \name{ntickets}
 \alias{ntickets}
-\title{Title Find the minimum amount of tickets needed}
+\title{ntickets
+Find the minimum amount of tickets needed}
 \usage{
 ntickets(N = 200, gamma = 0.02, p = 0.95)
 }
@@ -18,7 +19,8 @@ a continuous and discrete graph and a list containing the discrete distribution
 and normal approximation
 }
 \description{
-Title Find the minimum amount of tickets needed
+ntickets
+Find the minimum amount of tickets needed
 }
 \examples{
 ntickets(400, 0.02, 0.95)

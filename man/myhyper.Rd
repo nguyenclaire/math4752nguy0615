@@ -2,7 +2,9 @@
 % Please edit documentation in R/myhyper.R
 \name{myhyper}
 \alias{myhyper}
-\title{myhyper}
+\title{myhyper
+myhyper function from lab 5.
+This function forms a barplot of the trials and successes}
 \usage{
 myhyper(iter = 100, N = 20, r = 12, n = 5)
 }
@@ -19,9 +21,9 @@ myhyper(iter = 100, N = 20, r = 12, n = 5)
 results as a barplot
 }
 \description{
+myhyper
 myhyper function from lab 5.
-This is my function.
-This is what it does.
+This function forms a barplot of the trials and successes
 }
 \examples{
 myhyper(100, 20, 12, 5)

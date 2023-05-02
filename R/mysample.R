@@ -1,13 +1,17 @@
-#' mysample function from lab 5.
-#' This is my function.
-#' This is what it does.
-#' @title mysample
+#' My Sample Function
 #'
-#' @param n desc
-#' @param iter desc
-#' @param time desc
+#' This function generates bar plots of random samples taken from a discrete
+#' distribution with integer values ranging from 1 to 10. The function iteratively
+#' creates samples, converts them to factors, and then plots the relative
+#' frequencies of each value in the form of a bar plot.
 #'
-#' @return desc
+#' @title My Sample Function
+#'
+#' @param n An integer representing the sample size for each iteration.
+#' @param iter An integer representing the number of iterations to perform.
+#' @param time A numeric value representing the time in seconds between each iteration.
+#'
+#' @return This function does not return any value. It generates bar plots for each iteration.
 #' @export
 #'
 #' @examples

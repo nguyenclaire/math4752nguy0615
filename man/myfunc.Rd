@@ -2,7 +2,8 @@
 % Please edit documentation in R/myfunc.R
 \name{myfunc}
 \alias{myfunc}
-\title{Function Formula Quadratic}
+\title{myfunc
+This function is for a quadratic}
 \usage{
 myfunc(x)
 }
@@ -13,7 +14,8 @@ myfunc(x)
 it returns a line of the equation
 }
 \description{
-Function Formula Quadratic
+myfunc
+This function is for a quadratic
 }
 \examples{
 myfunc(1)

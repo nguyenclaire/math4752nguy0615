@@ -1,7 +1,5 @@
-## sampling function.
-# iter = iterations, n=sample size.
-# set default values.
 #' @title Sampling function from Lab 5
+#' This function creates a barplot of the probabilities of each trial
 #'
 #' @param iter The number of iterations
 #' @param n The number of trials

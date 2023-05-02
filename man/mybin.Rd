@@ -2,7 +2,8 @@
 % Please edit documentation in R/mybin.R
 \name{mybin}
 \alias{mybin}
-\title{Sampling function from Lab 5}
+\title{Sampling function from Lab 5
+This function creates a barplot of the probabilities of each trial}
 \usage{
 mybin(iter = 100, n = 10, p = 0.5)
 }
@@ -18,6 +19,7 @@ A graph of the probabilities for the trials
 }
 \description{
 Sampling function from Lab 5
+This function creates a barplot of the probabilities of each trial
 }
 \examples{
 \dontrun{mybin(iter=1000,n=18, p=0.3)}

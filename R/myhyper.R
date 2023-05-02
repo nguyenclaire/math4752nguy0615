@@ -1,7 +1,6 @@
-#' myhyper function from lab 5.
-#' This is my function.
-#' This is what it does.
 #' @title myhyper
+#' myhyper function from lab 5.
+#' This function forms a barplot of the trials and successes
 #'
 #' @param iter iterations
 #' @param N size

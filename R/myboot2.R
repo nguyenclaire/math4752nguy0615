@@ -1,4 +1,5 @@
-#' Title myboot2
+#' @title myboot2
+#' This function creates a histrogram of the confidence intervals
 #'
 #' @param iter number of iterations to perform
 #' @param x vector of elements

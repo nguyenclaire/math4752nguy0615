@@ -1,4 +1,4 @@
-#' Title: myncurve
+#' @title myncurve
 #'
 #' @param a Upper bound
 #' @param mu mean

@@ -1,4 +1,5 @@
-#' Title mycltp
+#' @title mycltp
+#' This function returns a histogram of the same means
 #'
 #' @param n size
 #' @param iter iterations
@@ -13,7 +14,8 @@
 #'
 #' @export
 #'
-#' @examples mycltp(n=2, iter=10000,lambda=4)
+#' @examples
+#' mycltp(n=2, iter=10000,lambda=4)
 mycltp=function(n,iter,lambda=10){
 
   ## r-random sample from the Poisson

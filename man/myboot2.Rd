@@ -2,7 +2,8 @@
 % Please edit documentation in R/myboot2.R
 \name{myboot2}
 \alias{myboot2}
-\title{Title myboot2}
+\title{myboot2
+This function creates a histrogram of the confidence intervals}
 \usage{
 myboot2(iter = 10000, x, fun = "mean", alpha = 0.05, cx = 1.5, ...)
 }
@@ -23,7 +24,8 @@ myboot2(iter = 10000, x, fun = "mean", alpha = 0.05, cx = 1.5, ...)
 histogram of plotted confidence interval
 }
 \description{
-Title myboot2
+myboot2
+This function creates a histrogram of the confidence intervals
 }
 \examples{
 myboot2(x = rnorm(20,mean=10,sd=4), fun = "mean", alpha = 0.05)
